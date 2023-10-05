@@ -4,7 +4,7 @@
 
 The detail of the task is below.
 
-  **Write 1 blog/article about algorithms in any manner, not limited to JavaScript. You can write about objectives or how algorithms solve problems. You can provide information, offer suggestions and advice to a reader who may not know what an algorithm is.
+  **Write 1 blog/article about algorithms in any manner, not limited to JavaScript.You can write about objectives or how algorithms solve problems. You can provide information, offer suggestions and advice to a reader who may not know what an algorithm is.
   Writing a script to give examples is also valued and recommended. You may write an article that revolves around the topic of JavaScript.**
 
 ***
@@ -32,16 +32,6 @@ Output: [1,2]
 Example3
 Input: nums = [3,3], target = 6
 Output: [0,1]
-
-Constraints:
-
-$2 <= nums.length <= 10^4$
-$-10^9 <= nums[i] <= 10^9$
-$-10^9 <= target <= 10^9$
-Only one valid answer exists.
-
 ```
 
-$2 <= nums.length <= 10^4$  
-$-10^9 <= nums[i] <= 10^9$  
-$-10^9 <= target <= 10^9$
+If you want to read more details about Leet code, Click [here.](https://leetcode.com/problems/two-sum/ "Leet Code -Two Sum")
