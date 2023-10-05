@@ -1,6 +1,7 @@
 # Algorithm Assignment <br>Leet Code no.1 "Two Sum"
 
-## This article is for school task.
+## This article is for school task
+
 The detail of the task is below.
 
   **Write 1 blog/article about algorithms in any manner, not limited to JavaScript. You can write about objectives or how algorithms solve problems. You can provide information, offer suggestions and advice to a reader who may not know what an algorithm is.
@@ -13,9 +14,11 @@ I don't have any working experience as a developer, have just started learning p
 First of all, below is the explanation of two sum problem.
 
 **Leet Code Two Sum explanation**  
- ```
+
+ ```markdown
  Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
- You may assume that each input would have exactly one solution, and you may not use the same element twice.  You can return the answer in any order.
+ You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
 
  Example1
  Input: nums = [2,7,11,15], target = 9
